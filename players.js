@@ -2647,10 +2647,10 @@ players = [
  },
  {
    "Rank": 379,
-   "Player": "RAV3R",
+   "Player": "xXR3F0RMK1LL3RXx",
    "Points": 966,
-   "Country": "",
-   "Characters": ""
+   "Country": "England(Yorkshire and the Humber)",
+   "Characters": "Fox"
  },
  {
    "Rank": 380,
@@ -3424,7 +3424,7 @@ players = [
  },
  {
    "Rank": 490,
-   "Player": "TRANSRIGHTS | ninenaos",
+   "Player": "TRANSRIGHTS | tora!",
    "Points": 774,
    "Country": "",
    "Characters": ""
