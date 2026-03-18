@@ -29,7 +29,7 @@ players = [
  },
  {
    "Rank": 5,
-   "Player": "max (Frankthefisher)",
+   "Player": "max",
    "Points": 2065,
    "Country": "England(London)",
    "Characters": "Sheik"
@@ -827,7 +827,7 @@ players = [
  },
  {
    "Rank": 119,
-   "Player": "Robs (Ireland, not Rob)",
+   "Player": "Robs",
    "Points": 1464,
    "Country": "Ireland",
    "Characters": ""
@@ -1372,13 +1372,6 @@ players = [
    "Characters": "Falco"
  },
  {
-   "Rank": 197,
-   "Player": "R.I.D.P.P | JUNE",
-   "Points": 1268,
-   "Country": "",
-   "Characters": ""
- },
- {
    "Rank": 198,
    "Player": "Snugs",
    "Points": 1267,
@@ -1732,8 +1725,8 @@ players = [
    "Rank": 248,
    "Player": "Rafferty",
    "Points": 1191,
-   "Country": "",
-   "Characters": ""
+   "Country": "England(Yorkshire and the Humber)",
+   "Characters": "Fox"
  },
  {
    "Rank": 249,
@@ -1782,7 +1775,7 @@ players = [
    "Player": "Basil_Snake",
    "Points": 1182,
    "Country": "",
-   "Characters": ""
+   "Characters": "Fox"
  },
  {
    "Rank": 256,
@@ -1821,7 +1814,7 @@ players = [
  },
  {
    "Rank": 261,
-   "Player": "Toilet Cleaner (Sylveon)",
+   "Player": "Sylveon",
    "Points": 1174,
    "Country": "England(Midlands)",
    "Characters": "Marth"
@@ -1865,8 +1858,8 @@ players = [
    "Rank": 267,
    "Player": "ronkle dunkle",
    "Points": 1168,
-   "Country": "",
-   "Characters": ""
+   "Country": "Yorkshire and the Humber",
+   "Characters": "Samus"
  },
  {
    "Rank": 268,
@@ -2143,10 +2136,10 @@ players = [
  },
  {
    "Rank": 307,
-   "Player": "tea (Midlands)",
+   "Player": "Ashley Ganondorf",
    "Points": 1103,
    "Country": "England(Midlands)",
-   "Characters": ""
+   "Characters": "Ganondorf"
  },
  {
    "Rank": 308,
@@ -2320,8 +2313,8 @@ players = [
    "Rank": 332,
    "Player": "Turkndorf",
    "Points": 1058,
-   "Country": "Turkey",
-   "Characters": ""
+   "Country": "Ireland",
+   "Characters": "Ganondorf"
  },
  {
    "Rank": 333,
@@ -2411,8 +2404,8 @@ players = [
    "Rank": 345,
    "Player": "BAEN",
    "Points": 1039,
-   "Country": "",
-   "Characters": ""
+   "Country": "England(Yorkshire and the Humber)",
+   "Characters": "Fox"
  },
  {
    "Rank": 346,
@@ -2500,7 +2493,7 @@ players = [
  },
  {
    "Rank": 358,
-   "Player": "Rob (Ireland, not Robs)",
+   "Player": "Rob",
    "Points": 1006,
    "Country": "Ireland",
    "Characters": ""
@@ -2713,7 +2706,7 @@ players = [
    "Player": "Pheebl",
    "Points": 953,
    "Country": "",
-   "Characters": ""
+   "Characters": "Ness"
  },
  {
    "Rank": 389,
@@ -2762,7 +2755,7 @@ players = [
    "Player": "palindrome",
    "Points": 942,
    "Country": "",
-   "Characters": ""
+   "Characters": "Yoshi"
  },
  {
    "Rank": 396,
@@ -3056,7 +3049,7 @@ players = [
    "Player": "Tac Rollie",
    "Points": 855,
    "Country": "England(North East)",
-   "Characters": ""
+   "Characters": "Fox"
  },
  {
    "Rank": 438,
@@ -3126,7 +3119,7 @@ players = [
    "Player": "animia",
    "Points": 845,
    "Country": "",
-   "Characters": ""
+   "Characters": "Marth"
  },
  {
    "Rank": 448,
@@ -3426,8 +3419,8 @@ players = [
    "Rank": 490,
    "Player": "TRANSRIGHTS | tora!",
    "Points": 774,
-   "Country": "",
-   "Characters": ""
+   "Country": "England(Yorkshire and the Humber)",
+   "Characters": "Marth"
  },
  {
    "Rank": 491,
